@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\bin\Debug\net6.0\Example002.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\bin\Debug\net6.0\Example002.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\bin\Debug\net6.0\Example002.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\bin\Debug\net6.0\Example002.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\bin\Debug\net6.0\Example002.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\refint\Example002.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\Example002.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Lesson_1\Example002\obj\Debug\net6.0\ref\Example002.dll
